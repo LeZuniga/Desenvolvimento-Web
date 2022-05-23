@@ -11,20 +11,20 @@ h2{
 ul{
     color: gold;
     text-align: justify;
-    font-family: 'Courier New', Courier, monospace;
     font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
 }
 p{
     color: whitesmoke;
     text-align: justify;
-    font-family: 'Courier New', Courier, monospace;
     font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
 }
 form{
     color: whitesmoke;
     text-align: justify;
-    font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
 }
 .font-bold{
     font-weight: bold;
