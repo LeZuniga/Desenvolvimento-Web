@@ -1,0 +1,54 @@
+h1{
+    color: coral;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    color: cadetblue;
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+}
+ul{
+    color: gold;
+    text-align: justify;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    color: whitesmoke;
+    text-align: justify;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+form{
+    color: whitesmoke;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.font-bold{
+    font-weight: bold;
+}
+
+/* Config. para o Display Flex, podendo assim organizar melhor os objetos/elementos/tags */
+.container{
+    display: flex;
+    justify-content: right; /* horizontal*/
+    align-items: center;    /* vertical */
+}
+
+.img-box{
+    margin: 5px;    /* Espaçamento Externo, ou seja, o espaço em que um elemento vai ter dos outros */
+    padding: 20px;  /* Espaçamento Interno, ou seja, o espaço em que um elemento vai ter do seu conteúdo */
+    border: 5px solid crimson;  /* Limite de um elemento, ou seja, sua borda */
+}
+
+/* body{
+    background-color: #353535;
+} */
+
+body{
+    background: #2d3436;
+  }
+ 
+  /* .Topbanner { background:  */
